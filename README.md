@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Molton, I'm currently studying System Engenieer
+I'm a passionate of leanr about technology of all types
 <!--
 **Molton321/Molton321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
